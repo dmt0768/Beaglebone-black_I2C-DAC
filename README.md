@@ -55,4 +55,4 @@ With DAC you could see the result using an oscilloscope, ADC, or just LED.
 ```
 
 ### 3) Open and edit files as you need 
-Python file has plenty of comments so it's not hard to figure out
+The Python file has plenty of comments so it's not hard to figure out
