@@ -34,6 +34,8 @@ In result you'll see the same:
 With DAC you could see the result using an oscilloscope, ADC, or just LED.
 
 ## Using
+The Python file gives a simple example of I2C using and provides fast sending a data. The smbus2 packege is used.
+
 ### 1) Preparation
 
   You should have the recent pip3 version. You could upgrade it by command:
