@@ -2,7 +2,7 @@
 This repository contains code for DAC adjusting via I2C on BeagleBone Black controller.
 
 ## Description
-The BeagleBone Black System doesn't include DAC, but it may be needed in some projects. So this repository contains code for DAC adjusting. I2C is used for data transmission.
+The BeagleBone Black System doesn't include DAC, but it may be needed in some projects. So this repository contains simple code for DAC adjusting. I2C is used for data transmission.
 
 DAC -- MCP4725 (12-bit, High-Speed Mode available). Arduino shield with MCP4725 is used (https://amperka.ru/product/troyka-dac-screw-terminal)
 
@@ -48,11 +48,11 @@ With DAC you could see the result using an oscilloscope, ADC, or just LED.
   pip3 install smbus2
 ```
 
-### 2) Download programs froms GitHub:
+### 2) Download program from GitHub:
 
 ```
   git clone https://github.com/dmt0768/Beaglebone-black_I2C-DAC.git
 ```
 
-### 3) Open and edit files as you need 
+### 3) Open and edit file as you need 
 The Python file has plenty of comments so it's not hard to figure out
