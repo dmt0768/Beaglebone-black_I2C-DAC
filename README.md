@@ -32,13 +32,17 @@ With DAC you could see the result using osciloscope, ADC, or just LED.
 
 # Using
 1) Preparation
-You should have the recent pip3 version. You could upgrade it by command:
-pip3 install --upgrade pip
 
-Than install smbus2 packege:
-pip3 install smbus2
+  You should have the recent pip3 version. You could upgrade it by command:
+
+  pip3 install --upgrade pip
+
+  Than install smbus2 packege:
+  
+  pip3 install smbus2
 
 2) Download programs froms GitHub:
-git ССЫЛКА
 
-3) 
+  git clone https://github.com/dmt0768/Beaglebone-black_I2C-DAC.git
+
+3) Open and edit files as you need 
