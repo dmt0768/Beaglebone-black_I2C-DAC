@@ -15,7 +15,7 @@ i2cdetect
 
 Read the man i2cdetect to know about it. If all right, you will see the same:
 
-![i2cdetect](https://github.com/dmt0768/Beaglebone-black_I2C-DAC/blob/editing/images/2020-04-20_11-03-17.png)
+![i2cdetect](https://github.com/dmt0768/Beaglebone-black_I2C-DAC/blob/editing/images/i2sdetect.png)
 
 My I2C device's number is 63, and on the picture, you can see the device's answer on the i2cdetect command: "63".
 
@@ -29,7 +29,7 @@ i2cset
 
 In result you'll see the same:
 
-![i2cset](https://github.com/dmt0768/Beaglebone-black_I2C-DAC/blob/editing/images/2020-04-20_11-52-39.png)
+![i2cset](https://github.com/dmt0768/Beaglebone-black_I2C-DAC/blob/editing/images/i2cset.png)
 
 With DAC you could see the result using an oscilloscope, ADC, or just LED.
 
