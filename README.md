@@ -59,5 +59,3 @@ The Python file gives a simple example of I2C using and provides fast sending a 
 
 ### 3) Open and edit file as you need 
 The Python file has plenty of comments so it's not hard to figure out
-=======
-This repository contains code for DAC ajusting via I2C on BeagleBone Black controller
