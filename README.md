@@ -1,6 +1,6 @@
 # Beaglebone-black_I2C-DAC
 
-This repository contains code for DAC adjusting via I2C on BeagleBone Black controller.
+This repository contains code for DAC adjusting via I2C on BeagleBone Black platform.
 
 ## Description
 The BeagleBone Black System doesn't include DAC, but it may be needed in some projects. So this repository contains simple code for DAC adjusting. I2C is used for data transmission.
