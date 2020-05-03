@@ -36,6 +36,7 @@ With DAC you could see the result using an oscilloscope, ADC, or just LED.
 
 ## Using
 The Python file gives a simple example of I2C using and provides fast sending a data. The smbus2 packege is used.
+Here is a general infomation about I2C, with has helped me (but it in Russian): http://easyelectronics.ru/interface-bus-iic-i2c.html
 
 ### 1) Preparation
 
